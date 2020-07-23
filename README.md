@@ -1,4 +1,6 @@
-### Hi there, I'm Kelly 👋
+### Hey there!<img src="https://github.com/02KellyV/02KellyV/blob/master/Hi.gif" width="29px">
+
+![](https://github.com/02KellyV/02KellyV/blob/master/Bio.gif)
 
 ![02KellyV github stats](https://github-readme-stats.vercel.app/api?username=02KellyV&show_icons=true&hide_border=true)
 
