@@ -8,7 +8,6 @@
 	<a href="https://medium.com/@02KellyV"><img src="https://img.shields.io/badge/Medium-02kellyv-fff?style=social&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAYAAADFw8lbAAAACXBIWXMAAC4jAAAuIwF4pT92AAADTElEQVRYhe2ZT4hNcRTHP8efMRETNabUsJiUlOX4s0Jmw4ImxVLDSKiJJEoRG5NYjJ0Z8m8hC1IKjX%2FZoFggUpqUQSE0g4YZzNGZ%2Bb3pzXvv3t%2Fv3nlPTc2p273v3vM959vv3HPOPb8nqspokHGjguUY0RLIBDMpIpXAHrsMcNGtqodGSkVE9gMVAao%2FgYNYMrmEMucaeCzL4NIcQG2gnz%2FAmgFMFlFbzSuBBq6NkOjJAB%2F9wLYhTI6BqcDzQCMLUpK0cP8I8NE8DFfA0HygN8DQuZREtwfYfmwRjiXqjJ0PMNYHVKcg%2BizA9s1cXFR5uhuQjROBfUEp7kREVtgrkwSTkSiifYH4jSJSncDfDnfuSoAZEF%2FBf%2B15bqu6M8SRiMwGVgKfLLThFAfFR%2FQC8N6j0ygi0wN8NQLjgTPA7yQkCSBqXeG4R8dK2tY4BRGxDrjJlbW2NK3bB7DOcAL45tFrEpHymOergVnAHVXtKAXRv6ra7TpJnFQBG2Keb3Hn1kC%2FyYm6c4tb3TjZJSJ59kSkBqgDProWXRKiA%2BRUtdP6u0d3LlBf4P5m5%2Be0qmaSqGQrSkD4TXZn%2FxCRMqAhK4lC%2FeZJEqLXgU6P%2FiIRWZr121Z4JnBLVbNrcmlCz2D47fpwgM0DWdeZTtSS0G%2BeJFlRk1PAOw9muYgsFJHFgB2vXDRKSnRYprtk8DUAXAINlSTNn8lLvqK4WuhrAOuBdcAv4GwKv4kBeURdA2grrD4k1lYnA5dV9fP%2FIBpV5FsCPyxaI%2B4XjWjmfqHQ26q%2BBS56bL9U1XsRz0LG8oKEcmWK%2B90fgz3mxoYoiXs9iraic9y5Mgqoqk%2BskEc87o1IIp%2FfxIAl7lznwR%2BNuH9DVb%2Bm8BstBabEOvduqluZWs9U%2BaDAFFnvwTxMOoXmGrCQf8kBWeJUxjhdlaP%2FwWYpD9FHqYm6DbP7EcB2C1eEU8nZXWn2kLSBsMND9I19zEQRPeIBN8U4b3A69srUxOiVJdjfegrMGEbUhe%2BvB%2FgdmBdDwKbV9hiSk4CrgSSzt3YqMp8KVW7WDgG%2BsBobQWQvsDYm3JeAnhTHbaDc3i%2BbHqclKBRdqpq3kyIitkvXkzVuFFXG%2FhUptowRLaoA%2FwAU%2Fbpr9lCHCQAAAABJRU5ErkJggg%3D%3D" alt="Medium"></a>
 	<a href="https://twitter.com/02KellyV"><img src="https://img.shields.io/twitter/follow/02KellyV?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.instagram.com/02kellyv/"><img src="https://img.shields.io/badge/Instagram-898-ff69b4?style=social&logo=instagram" alt="Instagram"></a>
-</p>
-<p align="center">
+
 ![02KellyV github stats](https://github-readme-stats.vercel.app/api?username=02KellyV&show_icons=true&hide_border=true)
-</p>
+
