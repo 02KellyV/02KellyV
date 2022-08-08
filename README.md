@@ -9,5 +9,6 @@
 	<a href="https://twitter.com/02KellyV"><img src="https://img.shields.io/twitter/follow/02KellyV?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.instagram.com/02kellyv/"><img src="https://img.shields.io/badge/Instagram-898-ff69b4?style=social&logo=instagram" alt="Instagram"></a>
 
-![02KellyV github stats](https://github-readme-stats.vercel.app/api?username=02KellyV&show_icons=true&hide_border=true)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=02KellyV&show_icons=true&hide_border=true&theme=gotham" alt="02KellyV GitHub Stats" />
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=02KellyV&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&ring=fc7565&fire=fc7565&sideNums=fc7565" />
 
